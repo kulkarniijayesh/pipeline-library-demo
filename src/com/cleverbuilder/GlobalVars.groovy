@@ -11,6 +11,6 @@ class GlobalVars {
    
    void test(str)
    {
-      sh "echo 'Executing test method from GlobalVars:'  ${str}"
+      echo "Executing test method from GlobalVars: ${str}"
    }
 }
