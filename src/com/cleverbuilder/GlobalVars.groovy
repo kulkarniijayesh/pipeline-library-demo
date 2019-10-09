@@ -9,8 +9,8 @@ class GlobalVars {
    // import com.cleverbuilder.GlobalVars
    // println GlobalVars.foo
    
-   void test(str)
+   String test(str)
    {
-      sh "echo test34"
+      return str+5;
    }
 }
