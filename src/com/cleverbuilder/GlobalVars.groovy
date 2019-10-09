@@ -11,6 +11,6 @@ class GlobalVars {
    
    void test(String str)
    {
-      println("Executing test method from GlobalVars: "+ str);
+      echo "Executing test method from GlobalVars: " str
    }
 }
