@@ -9,7 +9,7 @@ class GlobalVars {
    // import com.cleverbuilder.GlobalVars
    // println GlobalVars.foo
    
-   void test(String str)
+   void test(str)
    {
       echo "Executing test method from GlobalVars: " str
    }
