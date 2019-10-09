@@ -9,7 +9,7 @@ class GlobalVars {
    // import com.cleverbuilder.GlobalVars
    // println GlobalVars.foo
    
-   static void test(String str)
+   def test(String str)
    {
       println("Executing test method from GlobalVars: "+ str);
    }
