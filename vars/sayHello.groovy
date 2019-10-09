@@ -4,6 +4,6 @@ def call(String name = 'human') {
   echo "test: Hello, ${name}."
 }
 
-def test() {
+def test(String name = 'human') {
   echo "test: executing test from sayHello"
 }
