@@ -1,4 +1,4 @@
-def call(string name)
+def call(String name)
 {
   echo "executing test for ${name}"
 }
