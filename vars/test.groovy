@@ -6,5 +6,5 @@ def call(String name)
 def anotherTest(Map testVariables)
 {
   echo "executing another test with variables: "
-  echo "${test-name}"
+  echo "${testVariables.param1}"
 }
