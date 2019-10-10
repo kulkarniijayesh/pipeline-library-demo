@@ -8,6 +8,6 @@ def test(String name = 'human') {
   echo "test: executing test from sayHello"
 }
 
-def mapTest(map values) {
+def mapTest(Map values) {
   echo "${values.name}"
 }
