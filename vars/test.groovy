@@ -10,6 +10,6 @@ def anotherTest(Map testVariables)
   
   for(param in testVariables)
   {
-    echo ${param}
+    echo "${param}"
   }
 }
